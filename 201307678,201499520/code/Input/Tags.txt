@@ -1,0 +1,13 @@
+N
+V
+JJ
+CC
+RD
+DM
+CC
+RP
+QT
+PR
+RB
+PSP
+VAUX
